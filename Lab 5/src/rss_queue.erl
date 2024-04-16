@@ -1,14 +1,5 @@
-%%%-------------------------------------------------------------------
-%%% @author sshch
-%%% @copyright (C) 2024, <COMPANY>
-%%% @doc
-%%%
-%%% @end
-%%% Created : 05. март 2024 12:32
-%%%-------------------------------------------------------------------
 % @doc This module is designed for holding and managing RSS feed items. Every queue works with a single RSS feed
 -module(rss_queue).
--author("sshch").
 -include("C:/Program Files/Erlang OTP/lib/xmerl-1.3.34/include/xmerl.hrl").
 -include("C:/Program Files/Erlang OTP/lib/inets-9.1/include/httpd.hrl").
 -include("logging.hrl").

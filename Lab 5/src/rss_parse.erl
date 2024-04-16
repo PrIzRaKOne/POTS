@@ -1,13 +1,4 @@
-%%%-------------------------------------------------------------------
-%%% @author sshch
-%%% @copyright (C) 2024, <COMPANY>
-%%% @doc
-%%%
-%%% @end
-%%% Created : 27. февр. 2024 12:55
-%%%-------------------------------------------------------------------
 -module(rss_parse).
--author("sshch").
 -include("C:/Program Files/Erlang OTP/lib/xmerl-1.3.34/include/xmerl.hrl").
 -include("C:/Program Files/Erlang OTP/lib/inets-9.1/include/httpd.hrl").
 
